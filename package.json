@@ -27,11 +27,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/z-mmap-logger.git"
+    "url": "git+https://github.com/zill4/z-mmap-logger.git"
   },
-  "homepage": "https://github.com/yourusername/z-mmap-logger#readme",
+  "homepage": "https://github.com/zill4/z-mmap-logger#readme",
   "bugs": {
-    "url": "https://github.com/yourusername/z-mmap-logger/issues"
+    "url": "https://github.com/zill4/z-mmap-logger/issues"
   },
   "files": [
     "dist/**/*"

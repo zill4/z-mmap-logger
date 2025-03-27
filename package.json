@@ -1,6 +1,6 @@
 {
   "name": "z-mmap-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "High-performance logging for NestJS using memory-mapped files",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
